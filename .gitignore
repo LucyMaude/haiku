@@ -1,0 +1,4 @@
+node_modules/
+*.orig
+.idea/
+.DS_Store
